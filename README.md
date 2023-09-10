@@ -9,3 +9,4 @@
 # Goal
 
 Get a job, obviously.
+While learning about computers.
